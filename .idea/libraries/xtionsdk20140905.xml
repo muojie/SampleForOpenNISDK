@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xtionsdk20140905">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/xtionsdk20140905.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
